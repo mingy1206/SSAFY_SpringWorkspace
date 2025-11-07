@@ -1,0 +1,12 @@
+# 디폴트 무시된 파일
+/shelf/
+/workspace.xml
+# 작업 공간이 모든 구성 파일을 무시합니다
+/**
+!/jb-workspace.xml
+!/.gitignore
+# 에디터 기반 HTTP 클라이언트 요청
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml

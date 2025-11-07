@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WorkspaceSettings">
+    <project name="FW_01" path="$PROJECT_DIR$/../FW_01/FW_01" />
+    <project name="SpringABC" path="$PROJECT_DIR$/../SpringABC" />
+    <project name="SpringABC" path="$PROJECT_DIR$/../SpringDI" />
+    <project name="FW_02" path="$PROJECT_DIR$/../FW_02" />
+    <project name="FW_03_boot" path="$PROJECT_DIR$/../FW_03_boot" />
+    <project name="SpringBootTest" path="$PROJECT_DIR$/../SpringBootTest" />
+    <option name="workspace" value="true" />
+  </component>
+</project>
